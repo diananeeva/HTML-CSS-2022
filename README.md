@@ -1,2 +1,2 @@
-# HTML-Css-2022
+# HTML-CSS-2022
 My course
